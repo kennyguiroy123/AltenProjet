@@ -33,6 +33,8 @@ public class mainTest {
 		
 		daoDepartment.update(departement1);
 		daoDepartment.update(departement2);
+		//karim chamas 
+		//voila bonjour
 		
 	}
 
