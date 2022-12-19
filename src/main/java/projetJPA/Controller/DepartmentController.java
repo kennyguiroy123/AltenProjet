@@ -28,7 +28,7 @@ public class DepartmentController extends HttpServlet{
 	public DepartmentController() {
 		
 	}
-	//Ajout de commentaire test !
+	//Ajout de commentaire !
 	@Override
 	public void init() throws ServletException {
 		try {
