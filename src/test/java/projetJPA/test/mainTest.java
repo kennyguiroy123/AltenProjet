@@ -10,10 +10,7 @@ import projetJPA.util.JpaContext;
 public class mainTest {
 
 	public static void main(String[] args) {
-
-		// branch main
-
-		// push 
+		//deuxième commentaire merge
 
 		JpaContext.getEntityManagerFactory();
 		DaoEmploye daoEmployee = JpaContext.getDaoEmploye();
