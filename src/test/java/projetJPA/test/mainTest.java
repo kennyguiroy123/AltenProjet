@@ -10,7 +10,7 @@ import projetJPA.util.JpaContext;
 public class mainTest {
 
 	public static void main(String[] args) {
-		
+		// branch main
 		JpaContext.getEntityManagerFactory();
 		DaoEmploye daoEmployee = JpaContext.getDaoEmploye();
 		DaoDepartement daoDepartment = JpaContext.getDaoDepartment();
