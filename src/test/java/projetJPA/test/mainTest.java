@@ -11,6 +11,7 @@ public class mainTest {
 
 	public static void main(String[] args) {
 		
+		//deuxième commentaire merge
 		JpaContext.getEntityManagerFactory();
 		DaoEmploye daoEmployee = JpaContext.getDaoEmploye();
 		DaoDepartement daoDepartment = JpaContext.getDaoDepartment();
